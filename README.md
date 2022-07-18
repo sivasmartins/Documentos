@@ -1,4 +1,4 @@
 # Documentos
 ## Documentos e Howtos
 
-[Wiki](https://github.com/sivasmartins/Documentos/wiki)
+[WIKI](https://github.com/sivasmartins/Documentos/wiki)
